@@ -1,6 +1,13 @@
-# Phantom
+<div align="center">
+<h1>Phantom</h1>
 
-Digital C# stego tool
+C# advanced stego tool.
+
+[![Build and Deploy](https://github.com/light-hat/airway/actions/workflows/any.yml/badge.svg)](https://github.com/light-hat/airway/actions/workflows/any.yml/)
+[![Build and Deploy](https://github.com/light-hat/airway/actions/workflows/release.yml/badge.svg)](https://github.com/light-hat/airway/actions/workflows/release.yml/)
+[![GitHub release](https://img.shields.io/github/v/release/light-hat/airway.svg)](https://GitHub.com/light-hat/airway/releases/)
+
+</div>
 
 ## Начальная идея
 

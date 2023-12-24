@@ -1,4 +1,4 @@
-name: Phantom commit builderv3
+name: Phantom commit builder
 
 on:
   push:
