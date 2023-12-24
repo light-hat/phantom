@@ -3,9 +3,9 @@
 
 C# advanced stego tool.
 
-[![Build and Deploy](https://github.com/light-hat/airway/actions/workflows/any.yml/badge.svg)](https://github.com/light-hat/airway/actions/workflows/any.yml/)
-[![Build and Deploy](https://github.com/light-hat/airway/actions/workflows/release.yml/badge.svg)](https://github.com/light-hat/airway/actions/workflows/release.yml/)
-[![GitHub release](https://img.shields.io/github/v/release/light-hat/airway.svg)](https://GitHub.com/light-hat/airway/releases/)
+[![Build and Deploy](https://github.com/light-hat/phantom/actions/workflows/any.yml/badge.svg)](https://github.com/light-hat/phantom/actions/workflows/any.yml/)
+[![Build and Deploy](https://github.com/light-hat/phantom/actions/workflows/release.yml/badge.svg)](https://github.com/light-hat/phantom/actions/workflows/release.yml/)
+[![GitHub release](https://img.shields.io/github/v/release/light-hat/phantom.svg)](https://GitHub.com/light-hat/phantom/releases/)
 
 </div>
 
@@ -15,4 +15,4 @@ LSB, DCT, DWT, чё там ещё есть - разные алгоритмы с�
 
 ## Licensing
 
-Airway is licensed under the [Apache License 2.0](https://github.com/light-hat/phantom/blob/master/LICENSE).
+phantom is licensed under the [Apache License 2.0](https://github.com/light-hat/phantom/blob/master/LICENSE).
